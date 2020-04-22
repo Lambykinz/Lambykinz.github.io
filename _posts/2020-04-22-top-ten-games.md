@@ -1,7 +1,9 @@
-layout: page
-title: "My Top 10 Video Games"
-date: 2020-04-22 15:53:00 -0000
-categories: Top10
+---
+layout: post
+title:  "My Top 10 Video Games of All Time"
+date:   2020-04-22 16:03:00 -0400
+categories: top10
+---
 
 # My Top 10 Video Games of All Time
 By Lamb
