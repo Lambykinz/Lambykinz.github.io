@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My Top 10 Video Games of All Time"
 date:   2020-04-22 16:03:00 -0400
 categories: top10
