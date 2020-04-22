@@ -4,10 +4,6 @@ title:  "My Top 10 Video Games of All Time"
 date:   2020-04-22 16:03:00 -0400
 categories: top10
 ---
-
-# My Top 10 Video Games of All Time
-By Lamb
-
 ## Introduction
 
 This is a list of my top 10 video games of all time, listed in descending order. For this list, I put a constraint on myself to put at most one game from a particular franchise on the list. For example, I cannot put both StarCraft I and StarCraft II on the list, since they're part of the same franchise. However, beyond that it was fair game (no pun intended). The list includes games from different platforms and different genres. For the "Platform," I put all the platforms for which the game released, and then put italics on the one I have played it on. If there's only one platform then I don't do that.
